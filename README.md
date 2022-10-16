@@ -91,7 +91,7 @@ In the second pass we will search for said Anime/Topic in the title and/or OP te
 
 Code can be found in `house_move.py` 
 
-We copy the thread ids sorted from step 3 and move those threads to their new home. `shutil` module was used. I am amzed by how fast it took to move thousands of folders.
+We copy the thread ids sorted from step 3 and move those threads to their new home. `shutil` module was used. I am amazed by how fast it took to move thousands of folders.
 
 ### 5 - Manual searches
 
