@@ -84,6 +84,7 @@ In the second pass we will search for said Anime/Topic in the title and/or OP te
 =FIND(E2,LOWER(B2),1)
 ```
 
+Sort the results alphabetically to obtain matched threads.
 
 ![sheets 2](/Assets/www5.png)
 
